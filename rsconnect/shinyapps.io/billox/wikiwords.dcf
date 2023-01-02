@@ -1,0 +1,13 @@
+name: wikiwords
+title:
+username:
+account: billox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5590515
+bundleId: 6689998
+url: https://billox.shinyapps.io/wikiwords/
+when: 1672671727.76135
+lastSyncTime: 1672671727.76136
+asMultiple: FALSE
+asStatic: FALSE
